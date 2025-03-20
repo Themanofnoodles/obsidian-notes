@@ -1,5 +1,5 @@
-- [x] [[Drivers Ed]]
+- [ ] [[Drivers Ed]]
 - [ ] Ivy Tech Summer Classes
-- [ ] High School Summer Classes
+- [ ] [[High School Summer Classes]]
 - [ ] Debit / Credit Card
 - [ ] 
