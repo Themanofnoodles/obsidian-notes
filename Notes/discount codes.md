@@ -1,0 +1,5 @@
+- [ ] use variable for valid discount codes
+- [ ] use array as variable for multiple discount codes
+- [ ] extract number from discount code for % discount
+- [ ] use names of codes as functions for more in-depth discounts with checking
+	- [ ] send all variables no matter the function i think????
