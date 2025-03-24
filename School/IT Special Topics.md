@@ -1,3 +1,5 @@
 - Ask Mr. Pizzo about certification courses
 	- (New?) Python Certification
 	- HP Repair Certification
+- [ ] PC BUILD ASSIGNMENT
+	- [ ] https://pcpartpicker.com/list/mQH2TM
