@@ -1,0 +1,5 @@
+- [ ] WWII Part 2 Assignment Packet
+	- [ ] Japanese Internment Camp Primary Source Reading
+	- [ ] US MIlitary Strategy Video Guide
+	- [ ] Liberation of Concentration Camps WebQuest
+	- [ ] Decision to Drop the Bomb
