@@ -3,3 +3,4 @@
 	- HP Repair Certification
 - [ ] PC BUILD ASSIGNMENT
 	- [ ] https://pcpartpicker.com/list/mQH2TM
+	- [ ] https://pcpartpicker.com/list/znbKGJ
