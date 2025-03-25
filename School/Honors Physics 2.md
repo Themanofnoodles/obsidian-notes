@@ -1,6 +1,6 @@
 - [x] Wave Intro Worksheet
 	- [x] Submitted?
-- [ ] Slinky Wave Lab
+- [x] Slinky Wave Lab
 	- [ ] Submitted?
-- [ ] Wave on a String Sim Lab
+- [x] Wave on a String Sim Lab
 	- [ ] Submitted?
