@@ -1,4 +1,4 @@
-- [ ] 4.4 Worksheet
-	- [ ] Submitted?
+- [x] 4.4 Worksheet
+	- [x] Submitted? (late)
 	- [ ] Corrections Submitted?
 - [x] 4.1-4.4 Practice Test
