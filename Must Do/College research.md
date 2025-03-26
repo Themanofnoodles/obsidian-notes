@@ -7,9 +7,9 @@
 	**CONS**
 	- No travelling
 	- In the USA
-- Purdue University
-- University of Toronto
-- University of Waterloo
 - Ivy Tech
 	- [Informatics](https://www.ivytech.edu/programs/all-academic-programs/school-of-information-technology/informatics/)
 	- [Information Technology Support](https://www.ivytech.edu/programs/all-academic-programs/school-of-information-technology/information-technology-support/)
+- Purdue University
+- University of Toronto
+- University of Waterloo
