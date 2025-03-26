@@ -1,4 +1,4 @@
-- IU
+- Indiana University
 	**PROS**
 	- Cost effective
 	- Already familiar with the campus
@@ -8,4 +8,4 @@
 	- No travelling
 	- In the USA
 - Purdue
-- 
+- University of Toronto
