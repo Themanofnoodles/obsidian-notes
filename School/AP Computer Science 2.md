@@ -4,6 +4,6 @@
 	- [x] FRQ Submitted?
 - [ ] 4.12 Unit Project: Decision Make App
 	- [ ] Code.org Lesson Submitted?
-	- [ ] Project Guide Submitted?
-	- [ ] Demonstration Video Submitted?
-	- [ ] FRQ Submitted?
+	- [x] Project Guide
+	- [x] Demonstration Video
+	- [ ] FRQ
