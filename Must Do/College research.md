@@ -10,4 +10,4 @@
 - Purdue University
 - University of Toronto
 - University of Waterloo
-- 
+- Ivy Tech
