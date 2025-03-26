@@ -10,5 +10,7 @@
 	- No travelling
 	- In the USA
 - Purdue
+	- Direct Costs: $
+	- Indirect Costs: $
 	**PROS**
 	- 
