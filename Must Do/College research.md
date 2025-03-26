@@ -6,4 +6,6 @@
 	**CONS**
 	- No travelling
 	- In the USA
+- Purdue
+	**PROS**
 	- 
