@@ -1,5 +1,6 @@
 - [ ] [[Drivers Ed]]
 - [ ] [[Ivy Tech Summer Classes]]
 - [ ] [[High School Summer Classes]]
-- [ ] Debit / Credit Card
-- [ ] College research
+- [ ] [[Debit / Credit Card]]
+- [ ] [[College research]]
+- [ ] [[Summer Vacation Activities]]
