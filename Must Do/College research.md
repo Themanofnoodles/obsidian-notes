@@ -11,5 +11,5 @@
 	- [Informatics](https://www.ivytech.edu/programs/all-academic-programs/school-of-information-technology/informatics/)
 	- [Information Technology Support](https://www.ivytech.edu/programs/all-academic-programs/school-of-information-technology/information-technology-support/)
 - Purdue University
-- University of Toronto
-- University of Waterloo
+- University of Toronto (EXPENSIVE)
+- University of Waterloo (EXPENSIVE)
