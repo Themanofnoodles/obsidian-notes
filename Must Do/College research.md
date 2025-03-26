@@ -7,5 +7,7 @@
 	**CONS**
 	- No travelling
 	- In the USA
-- Purdue
+- Purdue University
 - University of Toronto
+- University of Waterloo
+- 
