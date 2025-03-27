@@ -2,8 +2,8 @@
 	- [x] Code.org Lesson Submitted?
 	- [x] Project Guide Submitted?
 	- [x] FRQ Submitted?
-- [ ] 4.12 Unit Project: Decision Make App
+- [x] 4.12 Unit Project: Decision Make App
 	- [ ] Code.org Lesson Submitted?
 	- [x] Project Guide
 	- [x] Demonstration Video
-	- [ ] FRQ
+	- [x] FRQ
