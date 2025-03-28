@@ -1,6 +1,10 @@
 - [x] Wave Intro Worksheet
 	- [x] Submitted?
 - [x] Slinky Wave Lab
-	- [ ] Submitted?
+	- [x] Submitted?
 - [x] Wave on a String Sim Lab
+	- [x] Submitted?
+- [ ] Textbook Questions #45-55
+	- [ ] Submitted?
+- [ ] Strings and Pipes Worksheet
 	- [ ] Submitted?
