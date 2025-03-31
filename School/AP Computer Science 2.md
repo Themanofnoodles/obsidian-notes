@@ -10,5 +10,7 @@
 - [x] 6.3 Lists Practice
 	- [x] Debugging Guide Submitted?
 	- [x] Code.org Lesson Submitted?
-- [ ] 6.4 Lists Make: Remindner App
-	- [ ] 
+- [ ] 6.4 Lists Make: Reminder App
+	- [ ] Code.org Project Submitted?
+	- [ ] Project Guide Submitted?
+	- [ ] FRQ's Submitted?

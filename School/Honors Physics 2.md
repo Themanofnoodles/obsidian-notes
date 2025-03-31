@@ -7,6 +7,6 @@
 - [x] Textbook Questions #45-55
 	- [ ] Submitted?
 - [x] Strings and Pipes Worksheet
-	- [ ] Submitted?
+	- [x] Submitted?
 - [ ] Stings and Pipes Worksheet 2
 	- [ ] Submitted?
