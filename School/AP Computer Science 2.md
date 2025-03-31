@@ -7,6 +7,6 @@
 	- [x] Project Guide
 	- [x] Demonstration Video
 	- [x] FRQ
-- [ ] 6.3 Lists Practice
-	- [ ] Debugging Guide Submitted?
+- [x] 6.3 Lists Practice
+	- [x] Debugging Guide Submitted?
 	- [x] Code.org Lesson Submitted?
