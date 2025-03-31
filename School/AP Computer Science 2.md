@@ -9,4 +9,4 @@
 	- [x] FRQ
 - [ ] 6.3 Lists Practice
 	- [ ] Debugging Guide Submitted?
-	- [ ] Code.org Lesson Submitted?
+	- [x] Code.org Lesson Submitted?
