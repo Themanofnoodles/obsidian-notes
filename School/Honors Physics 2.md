@@ -5,7 +5,7 @@
 - [x] Wave on a String Sim Lab
 	- [x] Submitted?
 - [x] Textbook Questions #45-55
-	- [ ] Submitted?
+	- [x] Submitted?
 - [x] Strings and Pipes Worksheet
 	- [x] Submitted?
 - [ ] Stings and Pipes Worksheet 2
