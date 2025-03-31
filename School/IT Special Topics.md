@@ -2,6 +2,6 @@
 	- (New?) Python Certification
 	- HP Repair Certification
 - [ ] PC BUILD ASSIGNMENT
-	- [ ] Submitted?
+	- [ ] Slideshow Submitted?
 	- https://pcpartpicker.com/list/mQH2TM
 	- https://pcpartpicker.com/list/znbKGJ

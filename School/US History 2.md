@@ -1,4 +1,4 @@
-- [ ] WWII Part 2 Assignment Packet
+- [ ] WWII Part 2 Assignment Packet (DUE WEDNESDAY)
 	- [x] Japanese Internment Camp Primary Source Reading
 	- [ ] US MIlitary Strategy Video Guide
 	- [ ] Liberation of Concentration Camps WebQuest
