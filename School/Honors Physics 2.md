@@ -8,5 +8,7 @@
 	- [x] Submitted?
 - [x] Strings and Pipes Worksheet
 	- [x] Submitted?
-- [ ] Stings and Pipes Worksheet 2
+- [x] Stings and Pipes Worksheet 2
+	- [x] Submitted?
+- [ ] Sound Problems Worksheet
 	- [ ] Submitted?
