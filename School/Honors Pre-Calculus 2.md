@@ -7,4 +7,4 @@
 	- [x] Corrections Submitted?
 - [x] 4.5 Day 2 Worksheet
 	- [x] Submitted?
-	- [ ] Corrections Submitted?
+	- [x] Corrections Submitted?
