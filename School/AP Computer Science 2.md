@@ -12,5 +12,7 @@
 	- [x] Code.org Lesson Submitted?
 - [x] 6.4 Lists Make: Reminder App
 	- [x] Code.org Project Submitted?
-	- [ ] Project Guide Submitted?
+	- [x] Project Guide Submitted?
 	- [x] FRQ's Submitted?
+- [ ] 6.5 Check For Understanding
+	- [ ] Submitted?

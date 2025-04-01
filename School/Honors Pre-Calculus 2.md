@@ -5,6 +5,6 @@
 - [x] 4.5 Day 1 Worksheet
 	- [x] Submitted?
 	- [x] Corrections Submitted?
-- [ ] 4.5 Day 2 Worksheet
-	- [ ] Submitted?
+- [x] 4.5 Day 2 Worksheet
+	- [x] Submitted?
 	- [ ] Corrections Submitted?
