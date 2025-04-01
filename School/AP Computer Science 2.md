@@ -11,6 +11,6 @@
 	- [x] Debugging Guide Submitted?
 	- [x] Code.org Lesson Submitted?
 - [ ] 6.4 Lists Make: Reminder App
-	- [ ] Code.org Project Submitted?
+	- [x] Code.org Project Submitted?
 	- [x] Project Guide Submitted?
 	- [ ] FRQ's Submitted?
