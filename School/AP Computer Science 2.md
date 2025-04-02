@@ -16,3 +16,8 @@
 	- [x] FRQ's Submitted?
 - [x] 6.5 Check For Understanding
 	- [x] Submitted?
+- [ ] 6.6 Check For Understanding
+	- [ ] Submitted?
+- [ ] 6.7 Loops Practice (all Levels & Debugging Guide)
+	- [ ] Code.org Project Submitted?
+	- [ ] Debugging Guide Submitted?

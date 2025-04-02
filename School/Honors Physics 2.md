@@ -11,4 +11,7 @@
 - [x] Stings and Pipes Worksheet 2
 	- [x] Submitted?
 - [x] Sound Problems Worksheet
-	- [ ] Submitted?
+	- [x] Submitted?
+- [ ] Speed of Sound Lab
+	- [ ] Lab Submitted?
+	- [ ] Lab Report Submitted?
