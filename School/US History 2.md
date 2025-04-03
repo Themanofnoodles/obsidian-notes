@@ -1,7 +1,3 @@
-- [ ] WWII Part 2 Assignment Packet (DUE WEDNESDAY)
-	- [x] Japanese Internment Camp Primary Source Reading
-	- [ ] Liberation of Concentration Camps WebQuest
-	- [ ] Decision to Drop the Bomb
 - [ ] Early Years of the Cold War Packet: Part 1
 	- [ ] Who Started the Cold War
 	- [ ] The Second Red Scare
