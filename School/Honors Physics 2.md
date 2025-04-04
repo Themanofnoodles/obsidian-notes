@@ -13,5 +13,8 @@
 - [x] Sound Problems Worksheet
 	- [x] Submitted?
 - [ ] Speed of Sound Lab
-	- [ ] Lab Submitted?
-	- [ ] Lab Report Submitted?
+	- [ ] Title Page w/ partners names
+	- [ ] Purpose & Hypothesis
+	- [ ] Procedure
+		- [ ] 3-5 sentences, overall summary, **NOT step by step**
+	- [ ] Data Table
