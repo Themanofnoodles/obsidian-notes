@@ -11,6 +11,6 @@
 - [x] 4.6 Worksheet
 	- [x] Submitted?
 	- [x] Corrections Submitted?
-- [ ] 4.7 Worksheet
-	- [ ] Submitted?
+- [x] 4.7 Worksheet
+	- [x] Submitted?
 	- [ ] Corrections Submitted?
