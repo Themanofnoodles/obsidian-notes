@@ -18,3 +18,23 @@
 	- [ ] Procedure
 		- [ ] 3-5 sentences, overall summary, **NOT step by step**
 	- [ ] Data Table
+		- [ ] title & headings
+		- [ ] units listed for each column
+		- [ ] consistent decimal formatting within a column
+	- [ ] Graph
+		- [ ] quantities on correct axes
+		- [ ] axes labels with unit and title
+		- [ ] equation shown
+	- [ ] Sample Calculations
+		- [ ] showed all 5 types (including the 3/4*λ)
+			- [ ] **6 total calculations**
+		- [ ] showed work (text, equation with variables, substitution with numbers, answer)
+		- [ ] units
+	- [ ] Questions
+		- [ ] 1. Sketch and label the apparatus used for this experiment or insert a picture
+		- [ ] 2. Explain why resonance occurs when the length of the air column is 1/4*λ
+		- [ ] 3. How could you use the method and results of this experiment to determine whether the speed of sound in air depends on the frequency? What do your results indicate about such a relationship?
+		- [ ] 4. How could you use the method of this experiment to determine whether the speed of sound in air depends on the atmospheric pressure?
+		- [ ] 5. When sound waves pass from air to water, their speed increases by a factor of 4. This means that either the wavelength or frequency also increases by a factor of 4. Which is it? Explain.
+		- [ ] 6. An echo results when a sound is reflected from a distant surface such as the wall of a distant building. Suppose you are standing in an open field 500 meters from a reflecting wall. You have a starting pistol and a stopwatch. How would you use these to determine the speed of sound in air?
+		- [ ] 7. What is the significance of the slope of your graph? Why? Compare your slope to the other data in your lab.
