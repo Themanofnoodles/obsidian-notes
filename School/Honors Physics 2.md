@@ -38,3 +38,13 @@
 		- [ ] 5. When sound waves pass from air to water, their speed increases by a factor of 4. This means that either the wavelength or frequency also increases by a factor of 4. Which is it? Explain.
 		- [ ] 6. An echo results when a sound is reflected from a distant surface such as the wall of a distant building. Suppose you are standing in an open field 500 meters from a reflecting wall. You have a starting pistol and a stopwatch. How would you use these to determine the speed of sound in air?
 		- [ ] 7. What is the significance of the slope of your graph? Why? Compare your slope to the other data in your lab.
+	- [ ] Conclusions
+		- [ ] restate your purpose
+		- [ ] relationship between speed and frequency
+		- [ ] results: "The accepted value of the speed of sound was calculated to be..."
+		- [ ] "The slope of the line on the graph was... and that number is..."
+		- [ ] "Average experimental value of speed was... and we were off by... %"
+		- [ ] "Possible sources of error were..."
+	- [ ] Report
+		- [ ] neatness & organization
+		- [ ] spelling / grammar
