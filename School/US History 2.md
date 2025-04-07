@@ -4,6 +4,6 @@
 	- [ ] Life in the 1950's
 	- [ ] Korean War
 	- [ ] The Cold War Heats Up: The Arms Race
-- [ ] Vietnam War Pre-Search Presentation
-	- [ ] Submitted?
-	- [ ] Presented?
+- [x] Vietnam War Pre-Search Presentation
+	- [x] Submitted?
+	- [x] Presented?
