@@ -48,3 +48,5 @@
 	- [ ] Report
 		- [ ] neatness & organization
 		- [ ] spelling / grammar
+- [x] Light Problems Worksheet
+	- [ ] Submitted?
