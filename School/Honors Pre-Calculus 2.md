@@ -13,4 +13,4 @@
 	- [x] Corrections Submitted?
 - [x] 4.7 Worksheet
 	- [x] Submitted?
-	- [ ] Corrections Submitted?
+	- [x] Corrections Submitted?
