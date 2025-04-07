@@ -21,4 +21,7 @@
 - [ ] 6.7 Loops Practice (all Levels & Debugging Guide)
 	- [ ] Code.org Project Submitted?
 	- [ ] Debugging Guide Submitted?
-- [ ] 
+- [ ] 6.8 Loops Make
+	- [x] Code.org Project Submitted?
+	- [x] Project Guide Submitted?
+	- [ ] FRQs Submitted?
