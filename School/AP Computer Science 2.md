@@ -25,3 +25,5 @@
 	- [x] Code.org Project Submitted?
 	- [x] Project Guide Submitted?
 	- [ ] FRQs Submitted?
+- [ ] 6.9 Check For Understanding
+	- [ ] Submitted?
