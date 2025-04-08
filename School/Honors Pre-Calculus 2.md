@@ -14,3 +14,8 @@
 - [x] 4.7 Worksheet
 	- [x] Submitted?
 	- [x] Corrections Submitted?
+- [ ] 4.8 Worksheet
+	- [ ] Submitted?
+	- [ ] Corrections Submitted?
+- [ ] 4.5-4.8 Practice Test
+	- [ ] Submitted
