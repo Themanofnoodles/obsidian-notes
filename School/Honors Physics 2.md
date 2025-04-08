@@ -49,4 +49,6 @@
 		- [ ] neatness & organization
 		- [ ] spelling / grammar
 - [x] Light Problems Worksheet
+	- [x] Submitted?
+- [ ] Bending Light PHET Lab
 	- [ ] Submitted?
