@@ -50,5 +50,5 @@
 		- [ ] spelling / grammar
 - [x] Light Problems Worksheet
 	- [x] Submitted?
-- [ ] Bending Light PHET Lab
+- [x] Bending Light PHET Lab
 	- [ ] Submitted?
