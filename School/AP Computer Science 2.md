@@ -25,5 +25,10 @@
 	- [x] Code.org Project Submitted?
 	- [x] Project Guide Submitted?
 	- [ ] FRQs Submitted?
-- [ ] 6.9 Check For Understanding
+- [x] 6.9 Check For Understanding
+	- [x] Submitted?
+- [ ] 6.10 Check For Understanding
 	- [ ] Submitted?
+- [ ] 6.11 Transversals Practice
+	- [ ] Code.org Project Submitted?
+	- [ ] Debug Guide Submitted?
