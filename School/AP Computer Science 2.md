@@ -35,4 +35,4 @@
 - [ ] 6.12 Transversals Make
 	- [ ] Code.org Project Submitted?
 	- [ ] Project Guide Submitted?
-	- [ ] 
+	- [ ] FRQs Submitted?
