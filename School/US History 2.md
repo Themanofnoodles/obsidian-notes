@@ -1,5 +1,5 @@
 - [ ] Early Years of the Cold War Packet: Part 1
-	- [ ] Who Started the Cold War
+	- [x] Who Started the Cold War
 	- [ ] The Second Red Scare
 	- [ ] Life in the 1950's
 	- [ ] Korean War

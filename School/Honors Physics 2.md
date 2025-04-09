@@ -13,18 +13,18 @@
 - [x] Sound Problems Worksheet
 	- [x] Submitted?
 - [ ] Speed of Sound Lab
-	- [ ] Title Page w/ partners names
+	- [x] Title Page w/ partners names
 	- [ ] Purpose & Hypothesis
 	- [ ] Procedure
 		- [ ] 3-5 sentences, overall summary, **NOT step by step**
-	- [ ] Data Table
-		- [ ] title & headings
-		- [ ] units listed for each column
-		- [ ] consistent decimal formatting within a column
-	- [ ] Graph
-		- [ ] quantities on correct axes
-		- [ ] axes labels with unit and title
-		- [ ] equation shown
+	- [x] Data Table
+		- [x] title & headings
+		- [x] units listed for each column
+		- [x] consistent decimal formatting within a column
+	- [x] Graph
+		- [x] quantities on correct axes
+		- [x] axes labels with unit and title
+		- [x] equation shown
 	- [ ] Sample Calculations
 		- [ ] showed all 5 types (including the 3/4*λ)
 			- [ ] **6 total calculations**
@@ -51,4 +51,4 @@
 - [x] Light Problems Worksheet
 	- [x] Submitted?
 - [x] Bending Light PHET Lab
-	- [ ] Submitted?
+	- [x] Submitted?
