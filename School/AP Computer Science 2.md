@@ -32,3 +32,7 @@
 - [ ] 6.11 Transversals Practice
 	- [ ] Code.org Project Submitted?
 	- [ ] Debug Guide Submitted?
+- [ ] 6.12 Transversals Make
+	- [ ] Code.org Project Submitted?
+	- [ ] Project Guide Submitted?
+	- [ ] 
