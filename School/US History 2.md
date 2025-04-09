@@ -1,7 +1,7 @@
 - [ ] Early Years of the Cold War Packet: Part 1
 	- [x] Who Started the Cold War
 	- [x] The Second Red Scare
-	- [ ] Life in the 1950's
+	- [x] Life in the 1950's
 	- [ ] Korean War
 	- [ ] The Cold War Heats Up: The Arms Race
 - [x] Vietnam War Pre-Search Presentation
