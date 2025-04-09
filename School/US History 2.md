@@ -7,3 +7,9 @@
 - [x] Vietnam War Pre-Search Presentation
 	- [x] Submitted?
 	- [x] Presented?
+- [ ] The Vietnam War Packet
+	- [x] Pre-Search Presentation
+		- [x] Presented?
+	- [ ] Pre-Search Gallery Walk
+	- [ ] Protest Songs
+	- [ ] Political Cartoons
