@@ -1,4 +1,4 @@
-- [ ] 6.10 Check For Understanding
+- [ ] 6.10 Check For Understanding (overdue)
 	- [ ] Submitted?
 - [ ] 6.11 Transversals Practice
 	- [ ] Code.org Project Submitted?
