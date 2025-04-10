@@ -1,6 +1,7 @@
-- [x] Vietnam War Pre-Search Presentation
-	- [x] Submitted?
-	- [x] Presented?
+YOU MUST DO WELL THIS HALF OF THE TRIMESTER
+YOUR MAX IS A HIGH B
+GET YOUR SHIT TOGETHER
+
 - [ ] The Vietnam War Packet
 	- [x] Pre-Search Presentation
 		- [x] Presented?
