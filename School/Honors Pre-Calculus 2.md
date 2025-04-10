@@ -1,21 +1,8 @@
-- [x] 4.4 Worksheet
-	- [x] Submitted? (late)
-	- [x] Corrections Submitted?
-- [x] 4.1-4.4 Practice Test
-- [x] 4.5 Day 1 Worksheet
-	- [x] Submitted?
-	- [x] Corrections Submitted?
-- [x] 4.5 Day 2 Worksheet
-	- [x] Submitted?
-	- [x] Corrections Submitted?
-- [x] 4.6 Worksheet
-	- [x] Submitted?
-	- [x] Corrections Submitted?
 - [x] 4.7 Worksheet
 	- [x] Submitted?
 	- [x] Corrections Submitted?
-- [ ] 4.8 Worksheet
-	- [ ] Submitted?
+- [x] 4.8 Worksheet
+	- [x] Submitted?
 	- [ ] Corrections Submitted?
-- [ ] 4.5-4.8 Practice Test
-	- [ ] Submitted
+- [x] 4.5-4.8 Practice Test
+	- [x] Submitted

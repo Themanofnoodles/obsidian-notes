@@ -1,8 +1,3 @@
 - Ask Mr. Pizzo about certification courses
 	- (New?) Python Certification
 	- HP Repair Certification
-- [ ] PC BUILD ASSIGNMENT
-	- [ ] Slideshow Submitted?
-	- https://pcpartpicker.com/list/mQH2TM
-	- https://pcpartpicker.com/list/znbKGJ
-	- whoops
