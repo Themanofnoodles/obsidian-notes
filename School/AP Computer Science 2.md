@@ -1,8 +1,8 @@
 - [ ] 6.10 Check For Understanding (overdue)
 	- [ ] Submitted?
-- [ ] 6.11 Transversals Practice
-	- [ ] Code.org Project Submitted?
-	- [ ] Debug Guide Submitted?
+- [x] 6.11 Transversals Practice
+	- [x] Code.org Project Submitted?
+	- [x] Debug Guide Submitted?
 - [ ] 6.12 Transversals Make
 	- [ ] Code.org Project Submitted?
 	- [ ] Project Guide Submitted?
