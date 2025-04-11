@@ -31,8 +31,8 @@
 		- [x] showed work (text, equation with variables, substitution with numbers, answer)
 		- [x] units
 	- [ ] Questions
-		- [ ] 1. Sketch and label the apparatus used for this experiment or insert a picture
-		- [ ] 2. Explain why resonance occurs when the length of the air column is 1/4*λ
+		- [x] 1. Sketch and label the apparatus used for this experiment or insert a picture
+		- [x] 2. Explain why resonance occurs when the length of the air column is 1/4*λ
 		- [ ] 3. How could you use the method and results of this experiment to determine whether the speed of sound in air depends on the frequency? What do your results indicate about such a relationship?
 		- [ ] 4. How could you use the method of this experiment to determine whether the speed of sound in air depends on the atmospheric pressure?
 		- [ ] 5. When sound waves pass from air to water, their speed increases by a factor of 4. This means that either the wavelength or frequency also increases by a factor of 4. Which is it? Explain.
