@@ -14,9 +14,9 @@
 	- [x] Submitted?
 - [ ] Speed of Sound Lab
 	- [x] Title Page w/ partners names
-	- [ ] Purpose & Hypothesis
-	- [ ] Procedure
-		- [ ] 3-5 sentences, overall summary, **NOT step by step**
+	- [x] Purpose & Hypothesis
+	- [x] Procedure
+		- [x] 3-5 sentences, overall summary, **NOT step by step**
 	- [x] Data Table
 		- [x] title & headings
 		- [x] units listed for each column
@@ -25,11 +25,11 @@
 		- [x] quantities on correct axes
 		- [x] axes labels with unit and title
 		- [x] equation shown
-	- [ ] Sample Calculations
-		- [ ] showed all 5 types (including the 3/4*λ)
-			- [ ] **6 total calculations**
-		- [ ] showed work (text, equation with variables, substitution with numbers, answer)
-		- [ ] units
+	- [x] Sample Calculations
+		- [x] showed all 5 types (including the 3/4*λ)
+			- [x] **6 total calculations**
+		- [x] showed work (text, equation with variables, substitution with numbers, answer)
+		- [x] units
 	- [ ] Questions
 		- [ ] 1. Sketch and label the apparatus used for this experiment or insert a picture
 		- [ ] 2. Explain why resonance occurs when the length of the air column is 1/4*λ

@@ -3,6 +3,6 @@
 	- [x] Corrections Submitted?
 - [x] 4.8 Worksheet
 	- [x] Submitted?
-	- [ ] Corrections Submitted?
+	- [x] Corrections Submitted?
 - [x] 4.5-4.8 Practice Test
 	- [x] Submitted
