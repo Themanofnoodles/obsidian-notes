@@ -12,7 +12,7 @@
 	- [x] Submitted?
 - [x] Sound Problems Worksheet
 	- [x] Submitted?
-- [ ] Speed of Sound Lab
+- [x] Speed of Sound Lab
 	- [x] Title Page w/ partners names
 	- [x] Purpose & Hypothesis
 	- [x] Procedure
