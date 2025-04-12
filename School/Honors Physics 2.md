@@ -30,14 +30,14 @@
 			- [x] **6 total calculations**
 		- [x] showed work (text, equation with variables, substitution with numbers, answer)
 		- [x] units
-	- [ ] Questions
+	- [x] Questions
 		- [x] 1. Sketch and label the apparatus used for this experiment or insert a picture
 		- [x] 2. Explain why resonance occurs when the length of the air column is 1/4*λ
 		- [x] 3. How could you use the method and results of this experiment to determine whether the speed of sound in air depends on the frequency? What do your results indicate about such a relationship?
 		- [x] 4. How could you use the method of this experiment to determine whether the speed of sound in air depends on the atmospheric pressure?
 		- [x] 5. When sound waves pass from air to water, their speed increases by a factor of 4. This means that either the wavelength or frequency also increases by a factor of 4. Which is it? Explain.
 		- [x] 6. An echo results when a sound is reflected from a distant surface such as the wall of a distant building. Suppose you are standing in an open field 500 meters from a reflecting wall. You have a starting pistol and a stopwatch. How would you use these to determine the speed of sound in air?
-		- [ ] 7. What is the significance of the slope of your graph? Why? Compare your slope to the other data in your lab.
+		- [x] 7. What is the significance of the slope of your graph? Why? Compare your slope to the other data in your lab.
 	- [ ] Conclusions
 		- [ ] restate your purpose
 		- [ ] relationship between speed and frequency
@@ -45,9 +45,9 @@
 		- [ ] "The slope of the line on the graph was... and that number is..."
 		- [ ] "Average experimental value of speed was... and we were off by... %"
 		- [ ] "Possible sources of error were..."
-	- [ ] Report
-		- [ ] neatness & organization
-		- [ ] spelling / grammar
+	- [x] Report
+		- [x] neatness & organization
+		- [x] spelling / grammar
 - [x] Light Problems Worksheet
 	- [x] Submitted?
 - [x] Bending Light PHET Lab
