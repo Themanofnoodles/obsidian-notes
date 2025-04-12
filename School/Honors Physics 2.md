@@ -39,11 +39,11 @@
 		- [x] 6. An echo results when a sound is reflected from a distant surface such as the wall of a distant building. Suppose you are standing in an open field 500 meters from a reflecting wall. You have a starting pistol and a stopwatch. How would you use these to determine the speed of sound in air?
 		- [x] 7. What is the significance of the slope of your graph? Why? Compare your slope to the other data in your lab.
 	- [ ] Conclusions
-		- [ ] restate your purpose
-		- [ ] relationship between speed and frequency
-		- [ ] results: "The accepted value of the speed of sound was calculated to be..."
-		- [ ] "The slope of the line on the graph was... and that number is..."
-		- [ ] "Average experimental value of speed was... and we were off by... %"
+		- [x] restate your purpose
+		- [x] relationship between speed and frequency
+		- [x] results: "The accepted value of the speed of sound was calculated to be..."
+		- [x] "The slope of the line on the graph was... and that number is..."
+		- [x] "Average experimental value of speed was... and we were off by... %"
 		- [ ] "Possible sources of error were..."
 	- [x] Report
 		- [x] neatness & organization
