@@ -52,3 +52,12 @@
 	- [x] Submitted?
 - [x] Bending Light PHET Lab
 	- [x] Submitted?
+- [x] Coulombs Law Worksheet
+	- [x] Submitted?
+- [x] Electric Fields Worksheet
+	- [x] Submitted?
+- [x] Electric Potential Worksheet
+	- [x] Submitted?
+- [x] Light Bulb Activity
+	- [x] Submitted?
+- [ ] 
