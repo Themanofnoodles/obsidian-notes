@@ -1,8 +1,0 @@
-- [x] 4.7 Worksheet
-	- [x] Submitted?
-	- [x] Corrections Submitted?
-- [x] 4.8 Worksheet
-	- [x] Submitted?
-	- [x] Corrections Submitted?
-- [x] 4.5-4.8 Practice Test
-	- [x] Submitted

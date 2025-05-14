@@ -1,3 +1,0 @@
-- Ask Mr. Pizzo about certification courses
-	- (New?) Python Certification
-	- HP Repair Certification

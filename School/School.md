@@ -1,5 +1,0 @@
-- Period 1: [[Honors Physics 2]]
-- Period 2: [[AP Computer Science 2]]
-- Period 3: [[Honors Pre-Calculus 2]]
-- Period 4: [[IT Special Topics]]
-- Period 5: [[US History 2]]
