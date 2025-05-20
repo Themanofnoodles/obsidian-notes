@@ -1,1 +1,1 @@
-Email counselor to ask about summer classes
+Check email regularly for info on summer classes.

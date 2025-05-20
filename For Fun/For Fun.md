@@ -1,2 +1,2 @@
 - [ ] [[Rock Climbing (Bouldering)]]
-- [ ] [[Summer School Computer Wiping]]
+- [x] [[Summer School Computer Wiping]]
